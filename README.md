@@ -15,5 +15,4 @@ WEBSILL/
 ├── saize.jpg            # Logo/Marca
 ├── README.md            # Documentação
 └── LICENSE              # Licença MIT
-cd WEBSILL
 git clone https://github.com/SAIZYFRANCISCO/WEBSILL.git
