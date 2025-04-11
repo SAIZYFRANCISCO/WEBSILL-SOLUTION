@@ -11,7 +11,7 @@ Projeto de loja virtual desenvolvido em HTML puro, perfeito para iniciantes em d
 - GitHub Pages (para hospedagem)
 https://github.com/SAIZYFRANCISCO/WEBSILL.git
 WEBSILL/
-├── loja_original.html    # Página principal
+├── loja original.html    # Página principal
 ├── saize.jpg            # Logo/Marca
 ├── README.md            # Documentação
 └── LICENSE              # Licença MIT
